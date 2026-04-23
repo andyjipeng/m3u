@@ -23,7 +23,6 @@ http://58.63.65.148:8888/rtp/239.77.0.90:5146#http://58.63.65.148:8888/rtp/239.7
 http://58.63.65.148:8888/rtp/239.77.0.89:5146#http://58.63.65.148:8888/rtp/239.77.1.33:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视.png" group-title="",湖南卫视
 http://58.63.65.148:8888/rtp/239.77.0.88:5146#http://58.63.65.148:8888/rtp/239.77.1.5:5146
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml"
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰中文.png" group-title="",凤凰中文
 http://171.213.145.124:8899/rtp/239.94.2.51:5140#http://171.213.145.124:8899/rtp/239.94.2.52:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰资讯.png" group-title="",凤凰资讯
