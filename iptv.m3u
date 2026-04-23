@@ -19,6 +19,82 @@ http://117.8.143.83:8834/rtp/225.1.2.237:5002
 http://58.63.65.148:8888/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png" group-title="",CCTV4K
 http://58.63.65.148:8888/rtp/239.77.1.180:5146
+#EXTINF:-1 tvg-name="央视网CCTV5" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/央视网CCTV5.png" group-title="",央视网CCTV5
+http://183.30.202.149:8000/rtp/239.77.0.176:5146
+#EXTINF:-1 tvg-name="央视网CCTV5" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/央视网CCTV5.png" group-title="",央视网CCTV5
+http://183.30.202.149:8000/rtp/239.77.1.77:5146
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视.png" group-title="",湖南卫视
+http://117.8.143.83:8834/rtp/225.1.1.114:5002
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏卫视.png" group-title="",江苏卫视
+http://117.8.143.83:8834/rtp/225.1.1.126:5002
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江卫视.png" group-title="",浙江卫视
+http://117.8.143.83:8834/rtp/225.1.1.112:5002
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大湾区卫视.png" group-title="",大湾区卫视
+http://183.30.202.149:8000/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰卫视资讯台.png" group-title="",凤凰卫视资讯台
+http://43.251.226.110:8880/play/725.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰资讯.png" group-title="",凤凰资讯
+http://43.251.226.110:8880/play/1317.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰卫视中文台.png" group-title="",凤凰卫视中文台
+http://43.251.226.110:8880/play/726.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰中文.png" group-title="",凤凰中文
+http://43.251.226.110:8880/play/1316.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰香港.png" group-title="",凤凰香港
+http://43.251.226.110:8880/play/1207.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰香港.png" group-title="",凤凰香港
+http://43.251.226.110:8880/play/1318.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/无线新闻.png" group-title="",无线新闻
+http://43.251.226.110:8880/play/1195.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/无线新闻台.png" group-title="",无线新闻台
+http://43.251.226.110:8880/play/1320.m3u8
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/NOW新闻台.png" group-title="",NOW新闻台
+http://43.251.226.110:8880/play/1278.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/翡翠台.png" group-title="",翡翠台
+http://43.251.226.110:8880/play/1289.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/翡翠台.png" group-title="",翡翠台
+http://43.251.226.110:8880/play/1321.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/明珠台.png" group-title="",明珠台
+http://43.251.226.110:8880/play/1291.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/明珠台.png" group-title="",明珠台
+http://43.251.226.110:8880/play/1325.m3u8
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华丽翡翠台.png" group-title="",华丽翡翠台
+http://43.251.226.110:8880/play/1322.m3u8
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB PLUS.png" group-title="",TVB PLUS
+http://43.251.226.110:8880/play/1290.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB Plus.png" group-title="",TVB Plus
+http://43.251.226.110:8880/play/1323.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB星河.png" group-title="",TVB星河
+http://43.251.226.110:8880/play/1294.m3u8
+#EXTINF:-1 tvg-name="TVB 亚洲剧台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB 亚洲剧台.png" group-title="",TVB 亚洲剧台
+http://43.251.226.110:8880/play/1211.m3u8
+#EXTINF:-1 tvg-name="TVB 黄金华剧台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB 黄金华剧台.png" group-title="",TVB 黄金华剧台
+http://43.251.226.110:8880/play/1213.m3u8
+#EXTINF:-1 tvg-name="TVB 黄金翡翠台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB 黄金翡翠台.png" group-title="",TVB 黄金翡翠台
+http://43.251.226.110:8880/play/1214.m3u8
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/VIUTV.png" group-title="",VIUTV
+http://43.251.226.110:8880/play/1279.m3u8
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/VIUTV.png" group-title="",VIUTV
+http://43.251.226.110:8880/play/1292.m3u8
+#EXTINF:-1 tvg-name="ASTROAOD" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/ASTROAOD.png" group-title="",ASTROAOD
+http://43.251.226.110:8880/play/1299.m3u8
+#EXTINF:-1 tvg-name="ASTROAEC" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/ASTROAEC.png" group-title="",ASTROAEC
+http://43.251.226.110:8880/play/1300.m3u8
+#EXTINF:-1 tvg-name="ASTRO欢喜台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/ASTRO欢喜台.png" group-title="",ASTRO欢喜台
+http://43.251.226.110:8880/play/1301.m3u8
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳视澳门.png" group-title="",澳视澳门
+http://43.251.226.110:8880/play/1324.m3u8
+#EXTINF:-1 tvg-name="澳门卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳门卫视.png" group-title="",澳门卫视
+http://43.251.226.110:8880/play/1203.m3u8
+#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳门资讯.png" group-title="",澳门资讯
+http://43.251.226.110:8880/play/1204.m3u8
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民視新聞.png" group-title="",民視新聞
+http://43.251.226.110:8880/play/1273.m3u8
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民視第一台.png" group-title="",民視第一台
+http://43.251.226.110:8880/play/1254.m3u8
+#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民視台灣台.png" group-title="",民視台灣台
+http://43.251.226.110:8880/play/1256.m3u8
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民視.png" group-title="",民視
+http://43.251.226.110:8880/play/1258.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京卫视4K.png" group-title="",北京卫视4K
 http://58.63.65.148:8888/rtp/239.77.0.2:5146
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京卫视4K.png" group-title="",北京卫视4K
