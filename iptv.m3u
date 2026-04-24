@@ -3,7 +3,7 @@
 http://58.63.65.148:8888/rtp/239.77.1.141:5146#http://14.121.144.235:10000/rtp/239.77.1.141:5146
 #EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津新闻.png" group-title="",天津新闻
 http://60.26.16.126:85/tsfile/live/9/1001.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="天津都市频道" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津都市频道.png" group-title="",天津都市频道
+#EXTINF:-1 tvg-name="天津都市频道" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津都市.png" group-title="",天津都市
 http://60.26.16.126:85/tsfile/live/21/1004.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津文艺.png" group-title="",天津文艺
 http://60.26.16.126:85/tsfile/live/13/1002.m3u8?key=txiptv
@@ -41,7 +41,7 @@ http://58.63.65.148:8888/rtp/239.77.0.65:5146#http://14.121.144.235:10000/rtp/23
 http://58.63.65.148:8888/rtp/239.77.0.67:5146#http://58.63.65.148:8888/rtp/239.77.1.14:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视4K.png" group-title="",湖南卫视4K
 http://58.63.65.148:8888/rtp/239.77.0.56:5146#http://14.121.144.235:10000/rtp/239.77.0.56:5146
-#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视4K.png" group-title="",山东卫视4K
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视4K.png" group-title="",山东卫视4K
 http://58.63.65.148:8888/rtp/239.77.0.61:5146#http://14.121.144.235:10000/rtp/239.77.0.61:5146
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川卫视4K.png" group-title="",四川卫视4K
 http://58.63.65.148:8888/rtp/239.77.0.60:5146#http://14.121.144.235:10000/rtp/239.77.0.60:5146
