@@ -1,14 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml"
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津卫视.png" group-title="",天津卫视
-http://58.63.65.148:8888/rtp/239.77.1.141:5146#http://14.121.144.235:10000/rtp/239.77.1.141:5146
-#EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津新闻.png" group-title="",天津新闻
-http://60.26.16.126:85/tsfile/live/9/1001.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="天津都市频道" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津都市.png" group-title="",天津都市
-http://60.26.16.126:85/tsfile/live/21/1004.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津文艺.png" group-title="",天津文艺
-http://60.26.16.126:85/tsfile/live/13/1002.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津体育.png" group-title="",天津体育
-http://60.26.16.126:85/tsfile/live/25/1005.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="",CCTV1
 http://58.63.65.148:8888/rtp/239.77.0.86:5146#http://58.63.65.148:8888/rtp/239.77.1.17:5146
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="",CCTV5
@@ -27,10 +17,6 @@ http://58.63.65.148:8888/rtp/239.77.0.89:5146#http://58.63.65.148:8888/rtp/239.7
 http://58.63.65.148:8888/rtp/239.77.0.88:5146#http://58.63.65.148:8888/rtp/239.77.1.5:5146
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大湾区卫视.png" group-title="",大湾区卫视
 http://58.63.65.148:8888/rtp/239.77.0.215:5146#http://14.121.144.235:10000/rtp/239.77.0.215:5146
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰中文.png" group-title="",凤凰中文
-http://171.213.173.9:4200/rtp/239.94.2.51:5140#http://171.213.173.9:4200/rtp/239.94.2.52:5140
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰资讯.png" group-title="",凤凰资讯
-http://171.213.173.9:4200/rtp/239.94.2.49:5140#http://171.213.173.9:4200/rtp/239.94.2.50:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京卫视4K.png" group-title="",北京卫视4K
 http://58.63.65.148:8888/rtp/239.77.0.2:5146#http://58.63.65.148:8888/rtp/239.77.1.13:5146
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方卫视4K.png" group-title="",东方卫视4K
